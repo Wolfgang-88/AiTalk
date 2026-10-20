@@ -1,0 +1,19 @@
+Installation Instructions   (Deutsch weiter unten)
+
+English:
+
+Download the file.
+Run the installer and follow the instructions.
+Start the program from the Start menu or desktop shortcut.
+
+Note on Windows warnings: The installer is currently not code-signed, so Windows SmartScreen may show a warning. Click "More info" and then "Run anyway" to continue.
+
+---
+
+Deutsch:
+
+Datei herunterladen.
+Den Installer ausführen und den Anweisungen folgen.
+Programm über das Startmenü oder die Desktop-Verknüpfung starten.
+
+Hinweis zu Windows-Warnungen: Der Installer ist derzeit nicht digital signiert. Windows SmartScreen kann deshalb „Der Computer wurde durch Windows geschützt“ anzeigen. Über „Weitere Informationen“ und „Trotzdem ausführen“ lässt sich die Installation fortsetzen.
